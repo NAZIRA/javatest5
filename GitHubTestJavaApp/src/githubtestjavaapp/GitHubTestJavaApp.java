@@ -16,6 +16,8 @@ public class GitHubTestJavaApp {
         
         a.display();
         
+        System.out.println("My name is Nazira!") ;
+        
     
     }
 }
